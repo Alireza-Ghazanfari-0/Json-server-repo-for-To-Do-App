@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "start": "json-server jsonserver/db.json --watch -p$port"
+    "start": "json-server jsonserver/db.json --watch --port $PORT --host 0.0.0.0"
   },
   "dependencies": {
     "json-server": "^0.17.3"  
