@@ -34,6 +34,8 @@ npm start
 
 **Note:** On Render, port and host are automatically managed using `$PORT` and `0.0.0.0`.  
 **توجه:** روی Render پورت و هاست به صورت خودکار تنظیم می‌شود.
+***
+local script:  "server": "json-server jsonserver/db.json --watch -p 9000 "
 
 ---
 
@@ -45,4 +47,4 @@ npm start
 ---
 
 👨‍💻 Developed by Alireza Ghazanfari  
-ساخته شده توسط علیرضا غضنفری
+alireza.ghazanfari@yahoo.com
